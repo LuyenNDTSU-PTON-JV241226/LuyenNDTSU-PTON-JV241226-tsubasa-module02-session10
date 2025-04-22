@@ -1,0 +1,19 @@
+{
+    "listTodo": [
+        {
+            "id": 1,
+            "todo": "Quét nhà",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "todo": "Giặt quần áo",
+            "completed": true
+        },
+        {
+            "id": 3,
+            "todo": "Nấu cơm",
+            "completed": false
+        }
+    ]
+}
